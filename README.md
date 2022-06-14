@@ -1,10 +1,8 @@
 <p align="center" style="width: 60%; height: 60%"><a href="https://www.medoid.ai/" target="_blank"><img src="https://www.medoid.ai/wp-content/uploads/2020/05/medoid-ai-logo-2.png" width="300px;" /></a></p>
 
-<p align="center" style="width: 60%; height: 60%">
+<div align="center" style="width: 60%; height: 60%">
 [![Medoid AI](https://www.medoid.ai/wp-content/uploads/2020/05/medoid-ai-logo-2.png)](https://www.medoid.ai/)
-</p>
-
-[![Medoid AI](https://www.medoid.ai/wp-content/uploads/2020/05/medoid-ai-logo-2.png)](https://www.medoid.ai/)
+</div>
 
 # Blog post: Interpretable Machine Learning & its Applications
 
