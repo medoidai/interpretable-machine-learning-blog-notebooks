@@ -7,8 +7,8 @@ Notebook examples from "Interpretable Machine Learning &amp; its Applications" b
 - [Table of contents](#table-of-contents)
 - [What?](#what)
 - [Why?](#why)
-- [Notebooks?](#notebooks)
-- [License?](#license)
+- [Notebooks](#notebooks)
+- [License](#license)
 
 ## What?
 
@@ -18,13 +18,13 @@ TODO...
 
 TODO...
 
-## Notebooks?
+## Notebooks
 
 Description | Link
 --- | ---
 Example 1 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example-1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 Example 2 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example-2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## License?
+## License
 
 See our [LICENSE](LICENSE) for more details.
