@@ -22,8 +22,8 @@ TODO...
 
 Description | Link
 --- | ---
-Example 1 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example-1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-Example 2 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example-2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Example 1 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Example 2 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## License
 
