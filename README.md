@@ -1,4 +1,4 @@
-# Interpretable Machine Learning & its Applications (Blogpost Notebooks)
+# Interpretable Machine Learning & its Applications (Blog post Notebooks)
 
 Notebook examples from "Interpretable Machine Learning &amp; its Applications" blog post.
 
