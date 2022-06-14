@@ -14,8 +14,8 @@ Notebook examples from "Interpretable Machine Learning &amp; its Applications" b
 
 Description | Link
 --- | ---
-Example 1 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-Example 2 | <a href="https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Example 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_1.ipynb)
+Example 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_2.ipynb)
 
 ## License
 
