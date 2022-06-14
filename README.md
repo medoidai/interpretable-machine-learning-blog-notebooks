@@ -1,5 +1,7 @@
 <p align="center"><a href="https://www.medoid.ai/" target="_blank"><img src="https://www.medoid.ai/wp-content/uploads/2020/05/medoid-ai-logo-2.png" width="300px;" /></a></p>
 
+[![Medoid AI]([https://colab.research.google.com/assets/colab-badge.svg](https://www.medoid.ai/)
+
 # Blog post: Interpretable Machine Learning & its Applications
 
 Notebook examples from "Interpretable Machine Learning &amp; its Applications" blog post.
