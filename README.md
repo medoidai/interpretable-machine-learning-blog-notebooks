@@ -7,18 +7,8 @@ Notebook examples from "Interpretable Machine Learning &amp; its Applications" b
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [What?](#what)
-- [Why?](#why)
 - [Notebooks](#notebooks)
 - [License](#license)
-
-## What?
-
-TODO...
-
-## Why?
-
-TODO...
 
 ## Notebooks
 
