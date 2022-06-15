@@ -22,7 +22,7 @@ This GitHub repo contains notebook examples from "A Practical Overview of Interp
 ## Notebooks
 
 Description | Related Data | Link
---- | ---
+--- | --- | ---
 Example 1 | Tabular | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_1.ipynb)
 Example 2 | Textual | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_2.ipynb)
 Example 3 | Images | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/medoidai/interpretable-machine-learning-blog-notebooks/blob/main/notebooks/example_3.ipynb)
