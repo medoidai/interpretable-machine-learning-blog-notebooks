@@ -2,7 +2,17 @@
 
 # Blog post: A Practical Overview of Interpretable Machine Learning
 
+## Table of contents
+
+- [Table of contents](#table-of-contents)
+- [What?](#what)
+- [Notebooks](#notebooks)
+- [License](#license)
+
+## What?
+
 This GitHub repo contains notebook examples from "A Practical Overview of Interpretable Machine Learning" blog post. In these examples, we will apply cutting-edge interpretability approaches to tackle problems involving various data types. Few of them are the following:
+
 - [Lime](https://github.com/marcotcr/lime)
 - [Anchors](https://github.com/marcotcr/anchor)
 - [Eli5](https://github.com/eli5-org/eli5)
@@ -12,12 +22,6 @@ This GitHub repo contains notebook examples from "A Practical Overview of Interp
 - [Transformers Interpret](https://github.com/cdpierse/transformers-interpret)
 - [BertViz](https://github.com/jessevig/bertviz)
 - [Innvestigate](https://github.com/albermax/innvestigate)
-
-## Table of contents
-
-- [Table of contents](#table-of-contents)
-- [Notebooks](#notebooks)
-- [License](#license)
 
 ## Notebooks
 
