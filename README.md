@@ -11,7 +11,7 @@
 
 ## What?
 
-This GitHub repo contains notebook examples from "A Practical Overview of Interpretable Machine Learning" blog post. In these examples, we will apply cutting-edge interpretability approaches to tackle problems involving various data types. Few of them are the following:
+This GitHub repo contains notebook examples from "[A Practical Overview of Interpretable Machine Learning](https://www.medoid.ai/blog/practical-overview-of-interpretable-machine-learning)" blog post. In these examples, we will apply cutting-edge interpretability approaches to tackle problems involving various data types. Few of them are the following:
 
 - [Lime](https://github.com/marcotcr/lime)
 - [Anchors](https://github.com/marcotcr/anchor)
